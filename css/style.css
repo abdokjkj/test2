@@ -1,0 +1,277 @@
+
+body{
+
+margin: 0;
+padding: 0;
+
+}
+
+.footer{
+
+width: 100%;
+height: 250px;
+background-color: blueviolet;
+
+}
+
+.footer .f1{
+
+float: left;
+margin-left: 150px;
+margin-top: 70px;
+color: white;
+font-size: 20px;
+text-transform: uppercase;
+border-right: 1px solid white;
+width: 400px;
+
+}
+
+.footer .f2{
+
+float: right;
+text-transform: uppercase;
+font-size: 15px;
+margin-top: 70px;
+margin-right: 30px;
+color: white;
+
+}
+
+.footer .f2 button{
+
+background-color: green;
+color: white;
+border-radius: 10px;
+padding: 10px;
+text-transform: uppercase;
+
+}
+
+.clear1{
+
+clear: both;
+
+}
+
+.section{
+
+width: 100%;    
+height: 350px;
+background-color: white;
+
+}
+
+.section .o1{
+
+float: left;
+margin-left: 80px;
+margin-top: 70px;
+width: 600px;
+border-right: 2px solid black;
+
+}
+
+.section .o1 h3{
+
+text-decoration: underline;
+
+}
+
+.section .o1 p{
+
+margin-top: 20px;
+font-size: 17px;
+
+}
+
+.section .o1 button{
+
+margin-top: 20px;
+padding: 10px;
+text-transform: uppercase;
+background-color: black;
+color: white;
+
+}
+
+.section .o2{
+
+float: right;
+margin-top: 90px;
+margin-right: 20px;
+
+}
+
+.section .o2 .fa-arrow-right{
+
+color: green;
+
+}
+
+.all , .aloo , .aya{
+
+width: 100%;
+height: 400px;
+background-color: #f2f2f2;
+
+}
+
+.all img , .aloo img , .five img{
+
+width: 400px;
+height: 300px;
+
+}
+
+.all .one .first , .aloo .two .third , .five{
+
+float: left;
+margin-left: 200px;
+margin-top: 50px;
+
+}
+
+.all .one .second , .aloo .two .fourth , .six {
+
+float: right;
+margin-top: 100px;
+margin-right: 10px;
+
+}
+
+.all .one .second h2 , .fourth h2 , .six h2{
+
+text-decoration: underline;
+
+}
+
+.all .one .second p , .fourth p , .six p{
+
+margin-top: 20px;
+
+}
+
+.all .one .second button , .fourth button , .six button{
+
+padding: 10px;
+text-transform: uppercase;
+background-color: black;
+color: white;
+border-radius: 10px;
+transition: all 1s ease-in-out;
+
+}
+
+.all .one .second button:hover , .fourth button:hover , .six button:hover{
+
+background-color: white;
+color: black;
+
+}
+
+.form{
+
+width: 100%;
+height: 500px;
+background-color: white;
+margin-top: -15px;
+
+}
+
+.form form{
+
+float: left;
+margin-top: 30px;
+margin-left: 100px;
+width: 600px;
+border-right: 1px solid black;
+
+}
+
+.form form *{
+
+display: block;
+margin-top: 20px;
+
+}
+
+.form form input , .form form textarea{
+
+width: 400px;
+
+}
+
+.form form textarea{
+
+height: 150px;
+
+}
+
+.form form button{
+
+padding: 10px;
+text-transform: uppercase;
+background-color: black;
+color: white;
+transition: all 1s ease-in-out;
+
+}
+
+.form form button:hover{
+
+color: black;
+background-color: white;
+outline: none;
+
+}
+
+.right{
+
+float: right;
+margin-right: 400px;;
+margin-top: 80px;
+
+}
+
+.right p{
+
+font-size: 20px;
+
+}
+
+.right p a{
+
+padding: 10px;
+
+}
+
+.right *{
+
+margin-top: 15px;
+
+}
+
+.fotter{
+
+width: 100%;
+height: 80px;
+background-color: #f2f2f2;
+
+}
+
+.fotter p{
+
+float: left;
+margin-left: 50%;
+font-size: 20px;
+text-transform: uppercase;
+margin-top: 20px;
+
+}
+
+
+
+
+
+
